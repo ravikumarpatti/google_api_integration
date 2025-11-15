@@ -4,6 +4,8 @@
 
 This application provides api's for code suggestion system where users can submit code snippets and receive AI-generated suggestions for improvements, bug fixes, and best practices. The system uses a **FIFO (First-In-First-Out) queue** to handle multiple concurrent requests efficiently, ensuring fair processing for all users.
 
+## Try this link to use the application ---> https://google-api-integration.onrender.com
+
 ### Key Highlights:
 
 - ✅ Real-time WebSocket communication
@@ -36,6 +38,8 @@ This application provides api's for code suggestion system where users can submi
 #### 4. **Data Storage**
 - **db.json**: File-based storage for users and sessions (POC)
 
+#### 5. **Deployement**
+- **Render**: Render is a cloud application platform that simplifies building, deploying, and scaling web applications by automating infrastructure management. (Free Tire)
 ---
 
 
@@ -119,3 +123,4 @@ open index.html
 - 1,500 requests per day
 
 ---
+

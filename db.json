@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "alice",
+      "password": "password123",
+      "email": "alice@example.com",
+      "role": "developer"
+    },
+    {
+      "id": 2,
+      "username": "bob",
+      "password": "password456",
+      "email": "bob@example.com",
+      "role": "developer"
+    },
+    {
+      "id": 3,
+      "username": "charlie",
+      "password": "password789",
+      "email": "charlie@example.com",
+      "role": "developer"
+    },
+    {
+      "id": 4,
+      "username": "david",
+      "password": "password321",
+      "email": "david@example.com",
+      "role": "admin"
+    },
+    {
+      "id": 5,
+      "username": "eve",
+      "password": "password654",
+      "email": "eve@example.com",
+      "role": "developer"
+    }
+  ],
+  "sessions": {
+    "04aa2bce-3c8b-49dd-955a-5e46ecf3f94c": {
+      "userId": 1,
+      "username": "alice",
+      "socketId": "8d199iGMU2OIlbiCAAAB",
+      "createdAt": "2025-11-13T12:26:13.649Z",
+      "lastActivity": "2025-11-13T12:33:30.207Z"
+    },
+    "0fbd9983-98fd-4ec4-848c-32706d75ced6": {
+      "userId": 1,
+      "username": "alice",
+      "socketId": null,
+      "createdAt": "2025-11-13T13:38:38.885Z",
+      "lastActivity": "2025-11-13T13:38:38.885Z"
+    },
+    "19356be0-c714-4a75-9e2d-863b14019180": {
+      "userId": 1,
+      "username": "alice",
+      "socketId": null,
+      "createdAt": "2025-11-15T09:36:28.002Z",
+      "lastActivity": "2025-11-15T09:36:28.002Z"
+    },
+    "53a1dc9b-a316-43ee-b894-f3184144f64b": {
+      "userId": 1,
+      "username": "alice",
+      "socketId": "WW2P1nL8LUa6iNRpAAAB",
+      "createdAt": "2025-11-15T09:44:43.699Z",
+      "lastActivity": "2025-11-15T11:31:21.138Z"
+    }
+  }
+}
